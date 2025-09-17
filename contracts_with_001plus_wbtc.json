@@ -1,0 +1,2498 @@
+{
+  "0xb8dc2b5415b401497838e7e46d4c4b680035465a": {
+    "balance": 0.06819225
+  },
+  "0xd343d5dba2fba55eef58189619c05e33cab95ca1": {
+    "balance": 1.16335725
+  },
+  "0xd2427c0e44d28ea74c0504e072c6073d135569b2": {
+    "balance": 0.01024369
+  },
+  "0x3a494d79aa78118795daad8aeff5825c6c8df7f1": {
+    "balance": 0.29102269
+  },
+  "0x01e1d41c1159b745298724c5fd3eaff3da1c6efd": {
+    "balance": 0.045214
+  },
+  "0x897c27fa372aa730d4c75b1243e7ea38879194e2": {
+    "balance": 0.48449973
+  },
+  "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656": {
+    "balance": 636.14548873
+  },
+  "0xa0b99a046e038281e8bfb78d6ef28b4a399ea62b": {
+    "balance": 0.37255136
+  },
+  "0x2796317b0ff8538f253012862c06787adfb8ceb6": {
+    "balance": 0.1528302
+  },
+  "0xcb550a6d4c8e3517a939bc79d0c7093eb7cf56b5": {
+    "balance": 0.0164186
+  },
+  "0xded90db52bdabfe7900c44cc52260aae3b864260": {
+    "balance": 0.04177272
+  },
+  "0x80466c64868e1ab14a1ddf27a676c3fcbe638fe5": {
+    "balance": 1.18625262
+  },
+  "0x51528d65d4fa831bf281dc61e372f3d028dd9518": {
+    "balance": 0.01207138
+  },
+  "0xd8ee69652e4e4838f2531732a46d1f7f584f0b7f": {
+    "balance": 0.14032281
+  },
+  "0xc4d57904c4435a9348b56051e4dea6055d85a6a9": {
+    "balance": 0.08797127
+  },
+  "0x23687d9d40f9ecc86e7666dddb820e700f954526": {
+    "balance": 1.75882029
+  },
+  "0x1cf68bbc2b6d3c6cfe1bd3590cf0e10b06a05f17": {
+    "balance": 0.45123079
+  },
+  "0xbddd7e0d950abd902f18068e92f61cefe58d9180": {
+    "balance": 0.11167051
+  },
+  "0x7157d50f861e6d505e721fb1e20ab8d5596b1958": {
+    "balance": 0.02014887
+  },
+  "0xba5ebaf3fc1fcca67147050bf80462393814e54b": {
+    "balance": 0.21941323
+  },
+  "0xbb93e510bbcd0b7beb5a853875f9ec60275cf498": {
+    "balance": 80.0
+  },
+  "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35": {
+    "balance": 249.16051092
+  },
+  "0x33a4aa96a0a87b2cf736ab2ffaf727bf054eb600": {
+    "balance": 0.07216
+  },
+  "0x759a3982426c24fdc840f1757fd58f2348bbda67": {
+    "balance": 1.0050064
+  },
+  "0xceff51756c56ceffca006cd410b03ffc46dd3a58": {
+    "balance": 172.0546345
+  },
+  "0x013d0ab50dfe291f61b3cc293639d02b84063204": {
+    "balance": 0.01055432
+  },
+  "0x2c84547f7076c4d834f14c5b2ff627f1913291e4": {
+    "balance": 0.84306483
+  },
+  "0x5f60044aa68279fcdfbe1eabe73da4b91e30ab76": {
+    "balance": 0.04245174
+  },
+  "0x37cecafdc7ccd51ab550f132d7d7da882ff5c061": {
+    "balance": 1.136628
+  },
+  "0x2b9dc65253c035eb21778cb3898eab5a0ada0cce": {
+    "balance": 0.09424715
+  },
+  "0x10c4f975d37903cb278e6b531c0979fc1a0e1875": {
+    "balance": 0.04119392
+  },
+  "0xb78b02220de4cd714c8d20d87db4d8fc16b68b8d": {
+    "balance": 0.11093775
+  },
+  "0x720d8790666bd40b9ca289cbe73cb1334f0ae7e3": {
+    "balance": 40.64092942
+  },
+  "0xe240b899b90f7529f51274541f3edfaef02dceab": {
+    "balance": 0.34337844
+  },
+  "0xd7067192df19c415ee35cc86708020eaf924cd75": {
+    "balance": 0.0340808
+  },
+  "0x0b9e0baeae6a65209dbed214cc23a9a2789f837a": {
+    "balance": 0.1509
+  },
+  "0x95f51f18212c6bcffb819fdb2035e5757954b7b9": {
+    "balance": 0.08696936
+  },
+  "0xad920e4870b3ff09d56261f571955990200b863e": {
+    "balance": 7.18632665
+  },
+  "0x865ba550cc0e6f3bc82171c42c5a6ed4ab975c64": {
+    "balance": 0.06303394
+  },
+  "0xef13101c5bbd737cfb2bf00bbd38c626ad6952f7": {
+    "balance": 0.46482732
+  },
+  "0x033d67912714ab6518139ff49aaa11615ac65382": {
+    "balance": 0.15641909
+  },
+  "0x6deafc6f532efaf72f7d33972a3e7b3864676e92": {
+    "balance": 0.03
+  },
+  "0x7eff474f44d384ee5d48a89cd5a473ac6fe24ce2": {
+    "balance": 10.23704697
+  },
+  "0xf02553b9f908ab61f4c1fc0af9a488c76f8ecc85": {
+    "balance": 0.10442446
+  },
+  "0x75149b982cf0b7b916cfcffa87f57b201cff90d9": {
+    "balance": 0.03014
+  },
+  "0x51a710218ec2ba2ac459ee28ec37c6df7fe18e11": {
+    "balance": 0.36536221
+  },
+  "0x26aaf7491588d4ff1146523917fb196b307603c8": {
+    "balance": 28.58770513
+  },
+  "0xa705c6cd257320cbaefdb781fb78a50868785de3": {
+    "balance": 0.4928048
+  },
+  "0xee51984781254ad1a0ee3ae0ca26c4d53dea6ecb": {
+    "balance": 0.0225673
+  },
+  "0x377f100a7280dd992c6f2503330f893620f586ab": {
+    "balance": 5.55727759
+  },
+  "0x8e3e13da6e7a45a9a3d64b1b331c5f5b9b3a01fc": {
+    "balance": 0.11096736
+  },
+  "0xb2535b988dce19f9d71dfb22db6da744acac21bf": {
+    "balance": 0.29086289
+  },
+  "0x67f60b0891ebd842ebe55e4ccca1098d7aac1a55": {
+    "balance": 0.11784635
+  },
+  "0x1e9f8f7be5791ef09b37a5bb686a915e7d03771a": {
+    "balance": 0.02819704
+  },
+  "0xd2f6d3c8b9c22a52205c53014bd783d50c0f295e": {
+    "balance": 0.01880795
+  },
+  "0x3dd223968c2acb1071dfb327cc0065a5fa4d4b15": {
+    "balance": 0.01107262
+  },
+  "0xfbdc3f1ec342b7d1589d47c2f1fb4676bfa38d38": {
+    "balance": 2.00000385
+  },
+  "0x4d2f5cfba55ae412221182d8475bc85799a5644b": {
+    "balance": 0.01896609
+  },
+  "0x01f90b4c57432dcbd46be495cf35497fc084df02": {
+    "balance": 0.24345259
+  },
+  "0xe592e829f7a6b8e7dcdbfa3a3c9650ff101eb74c": {
+    "balance": 0.04063541
+  },
+  "0xee9a6009b926645d33e10ee5577e9c8d3c95c165": {
+    "balance": 0.03149182
+  },
+  "0x3aa851404191ccebd499a60a68e6059bc33bcb55": {
+    "balance": 3.0
+  },
+  "0xcc3570264c3947ef1a6b12ecbc095150e2392ccc": {
+    "balance": 9.89695205
+  },
+  "0x70a0d9a7797a61916150d94d7c01341f744551c7": {
+    "balance": 15.09625417
+  },
+  "0xd315a9c38ec871068fec378e4ce78af528c76293": {
+    "balance": 11.99174507
+  },
+  "0xa7de087329bfcda5639247f96140f9dabe3deed1": {
+    "balance": 0.01349661
+  },
+  "0xda49af8773cb162ca56f8431442c750896f8c87a": {
+    "balance": 1.88700437
+  },
+  "0xb3b8c329f91873d54d06296c830199560487bf40": {
+    "balance": 60.72972444
+  },
+  "0x367e59b559283c8506207d75b0c5d8c66c4cd4b7": {
+    "balance": 11.78512827
+  },
+  "0xc149d5bbbf636006739754660efee3daa1335dfe": {
+    "balance": 0.05629196
+  },
+  "0xabafa52d3d5a2c18a4c1ae24480d22b831fc0413": {
+    "balance": 0.25682584
+  },
+  "0xe41f9fabee859c4e6d248e9442c822f09742228a": {
+    "balance": 0.15164277
+  },
+  "0x05c1b067835827cf73af2812be7c6f52a0970a3c": {
+    "balance": 2.78937615
+  },
+  "0x4b3b49caf88d5e7b9037d05f1e087ea4d2173ebf": {
+    "balance": 0.10576568
+  },
+  "0x06eecc5ce4a3ce96e7d8fe2bb100bcf3ec1b6fe7": {
+    "balance": 0.19957052
+  },
+  "0xb7be788116cab88a40db198c295c2b9390aee566": {
+    "balance": 0.02298152
+  },
+  "0xd17b3c9784510e33cd5b87b490e79253bcd81e2e": {
+    "balance": 0.77078244
+  },
+  "0x7b76b274dea7abe248ff764fdc11cbb9ba3585fb": {
+    "balance": 0.05734914
+  },
+  "0xb535829b435a241f84dfe5bf8bf809abf18a457a": {
+    "balance": 0.09530534
+  },
+  "0xc186fa914353c44b2e33ebe05f21846f1048beda": {
+    "balance": 117.5817443
+  },
+  "0x4c32fdc8b4bbd5d6d8b3dab7b32fcbb3e4e7ae89": {
+    "balance": 0.14309576
+  },
+  "0x2647b797f569d73f4f9289f7dc0eb4701a2fe928": {
+    "balance": 1.00432918
+  },
+  "0x9992429f4f46f4eb9ee31a39e3354f6a7147e994": {
+    "balance": 0.20741848
+  },
+  "0x77e034c8a1392d99a2c776a6c1593866fee36a33": {
+    "balance": 2.44838221
+  },
+  "0xa5e38d098b54c00f10e32e51647086232a9a0afd": {
+    "balance": 0.74464627
+  },
+  "0x8180d59b7175d4064bdfa8138a58e9babffda44a": {
+    "balance": 19.49142295
+  },
+  "0x4082c9647c098a6493fb499eae63b5ce3259c574": {
+    "balance": 6.31618466
+  },
+  "0xd5fde36f338ba877f08afbc712c02aa1266c79f1": {
+    "balance": 0.10638415
+  },
+  "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9": {
+    "balance": 0.01889911
+  },
+  "0x1d0db695f3033875d1b6a0155c38b3ee2aed3082": {
+    "balance": 42.82352148
+  },
+  "0xc6ab5794cd8d9169abacfe7412da4e3e5c12a29d": {
+    "balance": 0.02626186
+  },
+  "0x9c0a619ca6c9e836cbad64d4725cbcce1d3e5052": {
+    "balance": 0.34197097
+  },
+  "0x2e6feba4eb7cf634a4ec715429767ee828bdb403": {
+    "balance": 1.75533343
+  },
+  "0xc7b548ad9cf38721810246c079b2d8083aba8909": {
+    "balance": 0.01482149
+  },
+  "0x005dc1ad81c779f4335ce905fb4bdca40746489a": {
+    "balance": 0.05959411
+  },
+  "0x7d3c2f55030ae4852945274cfb5ae2074af5a05e": {
+    "balance": 0.10055054
+  },
+  "0x7ee7476cc55853ad32a41c780edc75ea229a3ece": {
+    "balance": 12.22358673
+  },
+  "0x1703ed1bfacc04b7eb654b297aa4e52ebc008722": {
+    "balance": 0.29017144
+  },
+  "0x5577e2a4c4d334b691797e054bb8acc790d08d87": {
+    "balance": 2.68879341
+  },
+  "0xf326e4de8f66a0bdc0970b79e0924e33c79f1915": {
+    "balance": 0.3534873
+  },
+  "0x9a13867048e01c663ce8ce2fe0cdae69ff9f35e3": {
+    "balance": 0.4780437
+  },
+  "0xef408c04d9da2425fe2241bfa3e46e2feca5a4c6": {
+    "balance": 9.19938665
+  },
+  "0x1e43c5f5244eaee3e170bad145bf80b841196564": {
+    "balance": 1.78245403
+  },
+  "0x07834b06b5756056e065c0bd1639761ab8297513": {
+    "balance": 6.24067441
+  },
+  "0xa9962a5bfbea6918e958dee0647e99fd7863b95a": {
+    "balance": 0.19778068
+  },
+  "0x833e16c9751339853e31aef07da2e29069aed184": {
+    "balance": 0.9989
+  },
+  "0x0e8ca408889b4fd7c73ce5300cd1ba78c16f6ff3": {
+    "balance": 0.16021
+  },
+  "0x9f885fe3197e913ff611ff44bdbf94df04a75cff": {
+    "balance": 0.11764887
+  },
+  "0xd51a44d3fae010294c616388b506acda1bfaae46": {
+    "balance": 50.39643649
+  },
+  "0x32d97a2790daec1421cc3b2c59e24178aa4d676a": {
+    "balance": 15.2758594
+  },
+  "0xaacee250718ccbceeca6080e64fda71c3394b986": {
+    "balance": 0.01266433
+  },
+  "0x5528e0ab72853e305a9c8edc59a767eebcc0ec69": {
+    "balance": 2.00939669
+  },
+  "0x99be3d24106afb367a2bd2d9498e511b839308ea": {
+    "balance": 11.19667142
+  },
+  "0x7b5982dcab054c377517759d0d2a3a5d02615ab8": {
+    "balance": 0.63454117
+  },
+  "0x2acf35c9a3f4c5c3f4c78ef5fb64c3ee82f07c45": {
+    "balance": 59.57856661
+  },
+  "0xbd29c6ca46c53735ff22ef1bc48c5fe3a63e7472": {
+    "balance": 0.83741022
+  },
+  "0xcb67be5c54eab9462967ee3c03c35bfffeb801cd": {
+    "balance": 0.06638252
+  },
+  "0x6de5bdc580f55bc9dacafcb67b91674040a247e3": {
+    "balance": 0.01912935
+  },
+  "0xff32b6dc663e9aa3ef61117749c6ccc168100b99": {
+    "balance": 0.11950815
+  },
+  "0xc0cfd7fc89bb06320411dded671c1a3095a7cbf7": {
+    "balance": 20.0
+  },
+  "0x9ba1ccf7e17e38c7edbb6a2d8eee355704130f31": {
+    "balance": 0.15083258
+  },
+  "0xcb33bd2961a0e1f072b1989ab1423cd3b93bcf7c": {
+    "balance": 0.02525611
+  },
+  "0xf392199ba61d9a53d09c1ee1c72a544ad46c2a87": {
+    "balance": 2.38070613
+  },
+  "0x0d19052d5dd45c9ca25d127ca6892e2e9a9cc6dd": {
+    "balance": 5.86887497
+  },
+  "0x579a3bde631c3d8068cbfe3dc45b0f14ec18dd43": {
+    "balance": 0.30980695
+  },
+  "0xa572c220da6156e74ec18a7761c38afcc9e02975": {
+    "balance": 0.04695
+  },
+  "0xa1f7bb557c1fe6ded1ee6b1775e5b2d2f7598ae4": {
+    "balance": 0.08102953
+  },
+  "0x92e0207eac0809f88ff1319f8b50e72b47b819c6": {
+    "balance": 0.50327357
+  },
+  "0xc19c36b050527eb27338c1e4bad28a4a4941917b": {
+    "balance": 0.02961831
+  },
+  "0x6b236df05363ccd0e92d0597b1b6b1ce9ba5d6ab": {
+    "balance": 0.38505268
+  },
+  "0x2971adfa57b20e5a416ae5a708a8655a9c74f723": {
+    "balance": 0.01
+  },
+  "0x110492b31c59716ac47337e616804e3e3adc0b4a": {
+    "balance": 2.41511909
+  },
+  "0x68e91df501ab66a0796d0fd164b907acf5f89ad0": {
+    "balance": 0.65034236
+  },
+  "0xba12222222228d8ba445958a75a0704d566bf2c8": {
+    "balance": 19.13019913
+  },
+  "0xfa77f713901a840b3df8f2eb093d95fac61b215a": {
+    "balance": 0.07709163
+  },
+  "0xb7ecb2aa52aa64a717180e030241bc75cd946726": {
+    "balance": 27.61067538
+  },
+  "0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714": {
+    "balance": 0.97189526
+  },
+  "0xebc7c1ef872c6e96ed2b6e7076731e7804401c03": {
+    "balance": 6.67005941
+  },
+  "0x1f3d61248ec81542889535595903078109707941": {
+    "balance": 0.95409294
+  },
+  "0x337c1e6f52ced859143fe66768c7bb0ad2bf1643": {
+    "balance": 0.07
+  },
+  "0x90128d41408219366399b34bfd8285f123f1c979": {
+    "balance": 0.16470101
+  },
+  "0x7ee7ca6e75de79e618e88bdf80d0b1db136b22d0": {
+    "balance": 0.16445179
+  },
+  "0x926df14a23be491164dcf93f4c468a50ef659d5b": {
+    "balance": 1.94118201
+  },
+  "0x04aa51bbcb46541455ccf1b8bef2ebc5d3787ec9": {
+    "balance": 0.72245297
+  },
+  "0xc15ba74898532e6c9694fe1994772f544f69bfab": {
+    "balance": 8.65369388
+  },
+  "0xf4128b00afda933428056d0f0d1d7652af7e2b35": {
+    "balance": 0.57540745
+  },
+  "0x352169127e1da21ad54788b7c17d990dd1b9c940": {
+    "balance": 0.07959724
+  },
+  "0xcdf7d793a5eef10b39667d037580e069c3ee7118": {
+    "balance": 2.86773362
+  },
+  "0x8ee98196c7c75eea2bf5c40810893f7a5aa9874d": {
+    "balance": 0.02587083
+  },
+  "0x108ed952c1d78f3e502ad6a07506e5651ceff682": {
+    "balance": 0.17369417
+  },
+  "0x3be8a7d4aa3e9b723a718e1b83fe8a8b5c37871c": {
+    "balance": 1.36861115
+  },
+  "0x2e0972f30ea02b9e55aa63a4e434f4346d743fa3": {
+    "balance": 0.99655541
+  },
+  "0x0da96062099823ae487aeb33da6331b8b5001c48": {
+    "balance": 0.05296904
+  },
+  "0x0274a704a6d9129f90a62ddc6f6024b33ecdad36": {
+    "balance": 2.56798217
+  },
+  "0x0a1bf6aaafb41cff88e060cdd95f2e9a75861363": {
+    "balance": 0.5
+  },
+  "0x202827712d30efe41f28e47dcdbe78708770c587": {
+    "balance": 0.015
+  },
+  "0x4457d81a97ab6074468da95f4c0c452924267da5": {
+    "balance": 3.7
+  },
+  "0x4819ac09e4619748b1cdf657283a948731fa6ab6": {
+    "balance": 3.27547048
+  },
+  "0x2fb6f4fde84d2e243574a755ac74172a85ad159f": {
+    "balance": 0.0733582
+  },
+  "0x3c4603f7aebe3f005a06d1666f5f13520ab01ec4": {
+    "balance": 0.7713156
+  },
+  "0x311dab81c37a1a5ea3e3b54338da7737538dde4e": {
+    "balance": 0.23811133
+  },
+  "0xa8b12cc90abf65191532a12bb5394a714a46d358": {
+    "balance": 0.24941876
+  },
+  "0xd89accd5824d6d9088e18bf503faeb20d7a724ae": {
+    "balance": 0.08705879
+  },
+  "0x1a0fceb22765460b0eab9f11d050b7181ed7e56e": {
+    "balance": 0.34717086
+  },
+  "0x00a3834faeb85840e358ea22d20d6513aa2ad7e7": {
+    "balance": 0.012
+  },
+  "0xaced00e50cb81377495ea40a1a44005fe6d2482d": {
+    "balance": 2.49687366
+  },
+  "0x384400cb588c7313ea240e37a151843487ecc20e": {
+    "balance": 0.01120116
+  },
+  "0xa4108aa1ec4967f8b52220a4f7e94a8201f2d906": {
+    "balance": 0.09372571
+  },
+  "0xfb752162a2effd235130df67d5094e6ecb5f2891": {
+    "balance": 2.1579145
+  },
+  "0xf49440c1f012d041802b25a73e5b0b9166a75c02": {
+    "balance": 1.95000001
+  },
+  "0xa327166fb996f3b3d28f422f101e55684e66f52c": {
+    "balance": 0.05367635
+  },
+  "0x9065f98611e05453811479c94c6f4ef9645a83f1": {
+    "balance": 0.28827637
+  },
+  "0x7d6a7ee46f6d5adde1a19776b441aa0df3279530": {
+    "balance": 0.31537481
+  },
+  "0xb13068901588fca45146bc22a44ec123a4dc2303": {
+    "balance": 1.0
+  },
+  "0x2a0c0dbecc7e4d658f48e01e3fa353f44050c208": {
+    "balance": 0.05331704
+  },
+  "0x0ad3d1281363c88796853fe3568bef497c691630": {
+    "balance": 0.20600705
+  },
+  "0x37f6df71b40c50b2038329cabf5fda3682df1ebf": {
+    "balance": 2.51094877
+  },
+  "0x3217b819ea2d25f1982bae5dd9c8fe4c6d546bfc": {
+    "balance": 10.0
+  },
+  "0x61f874551c69f0e40c9f55219107b408c989adec": {
+    "balance": 0.27925598
+  },
+  "0xde5b72490c770e442a790ed650ac0917dbbdb272": {
+    "balance": 0.01767487
+  },
+  "0x73dfe895373fbc8e972bfe769bef968b4ceb33a1": {
+    "balance": 0.02294756
+  },
+  "0xee76d9c262ce266d79ab9e2403d0dc17532bed27": {
+    "balance": 0.01019706
+  },
+  "0xec2441dee8b85bcfb3a9b800737a43f32e34ba8b": {
+    "balance": 0.375
+  },
+  "0xded69068a94776a23f5bdafc6b4c6894bc88e82c": {
+    "balance": 5.52935851
+  },
+  "0x1b83ba4527c837d462d5b78d65a097dabae5ea89": {
+    "balance": 14.49114759
+  },
+  "0xacbcdfa48f4652c0027aa0757bbbd2690e297620": {
+    "balance": 0.60020552
+  },
+  "0xe8a8b458bcd1ececc6b6b58f80929b29ccecff40": {
+    "balance": 0.13618762
+  },
+  "0x31f34375132ad4c609733e5ade9abfa33e646826": {
+    "balance": 0.03964
+  },
+  "0xe466d6cf6e2c3f3f8345d39633d4a968ec879bd5": {
+    "balance": 2.88320029
+  },
+  "0x02eb5a25dd05c091b11b42573125499373233190": {
+    "balance": 0.04068243
+  },
+  "0xd0babe88f56bbfc59cf96f2208447e0a91ce239e": {
+    "balance": 0.02379738
+  },
+  "0xbd6c7b0d2f68c2b7805d88388319cfb6ecb50ea9": {
+    "balance": 0.04950185
+  },
+  "0xf9d8eaf3fb3a2e638d96042f4bdd17614998b930": {
+    "balance": 0.01327486
+  },
+  "0x873e67a4835c531287aa944f032f0b3b47b6e62a": {
+    "balance": 0.51931118
+  },
+  "0xc5fa52aa356203ae375d0a98d7423c350b5b31c6": {
+    "balance": 0.01005544
+  },
+  "0xe04e8ae290965ad4f7e40c68041c493d2e89cdc3": {
+    "balance": 2.37583525
+  },
+  "0x5a846031d03fe53bfcd63e0dc75d2e6aeda57198": {
+    "balance": 0.20327761
+  },
+  "0x8a2cc7136314a72711152046edb0b163133aad4f": {
+    "balance": 0.07388695
+  },
+  "0x7e2b8aa127f6a50715ed4d300a95e6d1d35fd08a": {
+    "balance": 0.0363623
+  },
+  "0x164fe0239d703379bddde3c80e4d4800a1cd452b": {
+    "balance": 0.76519329
+  },
+  "0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5": {
+    "balance": 390.20209674
+  },
+  "0xbc1902b1a219930c06361b07d57c6312fc7b10c6": {
+    "balance": 0.35714175
+  },
+  "0xc4b2c51f969e0713e799de73b7f130fb7bb604cf": {
+    "balance": 0.01301727
+  },
+  "0xbb2b8038a1640196fbe3e38816f3e67cba72d940": {
+    "balance": 79.40244497
+  },
+  "0x956bed5f95d3cfc16581c3892931c0d110376f9f": {
+    "balance": 0.21048364
+  },
+  "0x735a81d56cd5788cd39e9a41fc1645f9860f965c": {
+    "balance": 0.0803678
+  },
+  "0xfa0f4052f32a9365451769a6b9a7b34a5713a866": {
+    "balance": 0.19137104
+  },
+  "0x0b7ffc1f4ad541a4ed16b40d8c37f0929158d101": {
+    "balance": 0.98618693
+  },
+  "0x4adbac34c83c60d0d46367bbb24af2d942d2a601": {
+    "balance": 0.13344872
+  },
+  "0x8b5876f5b0bf64056a89aa7e97511644758c3e8c": {
+    "balance": 2.62202733
+  },
+  "0xabea9132b05a70803a4e85094fd0e1800777fbef": {
+    "balance": 5.21799593
+  },
+  "0x09b7dbf9087a30d6667be7392c08f4eee680c8ee": {
+    "balance": 0.0118
+  },
+  "0x1520592f42bac42ee1186520a64afe46e8f5f22c": {
+    "balance": 0.03869039
+  },
+  "0xc145990e84155416144c532e31f89b840ca8c2ce": {
+    "balance": 0.49414
+  },
+  "0x3fb6b07d77dace1ba6b5f6ab1d8668643d15a2cc": {
+    "balance": 0.93282919
+  },
+  "0x73a83558efa19b197f6c52dc4c84bc76d7370e08": {
+    "balance": 0.03231154
+  },
+  "0x7e2a722fc51b0f693f0c60a43e656787f27509ab": {
+    "balance": 0.18087372
+  },
+  "0xbdef9038ffabcd13df3cbbd74cdc6bc47c2bca73": {
+    "balance": 0.08723014
+  },
+  "0x2eea44e40930b1984f42078e836c659a12301e40": {
+    "balance": 0.01305113
+  },
+  "0x8fc8bfd80d6a9f17fb98a373023d72531792b431": {
+    "balance": 0.1935435
+  },
+  "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4": {
+    "balance": 26.96645532
+  },
+  "0x93054188d876f558f4a66b2ef1d97d16edf0895b": {
+    "balance": 0.26563945
+  },
+  "0xb3a2af499af8f717bb3431968f8e0b038c975686": {
+    "balance": 0.05682681
+  },
+  "0x9ff3ea7b5296919c6544c3580e7e5e4d9c7a75b1": {
+    "balance": 0.21207937
+  },
+  "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed": {
+    "balance": 103.54176227
+  },
+  "0x60a08d332edd33fd640684501908e9cd6b2bc269": {
+    "balance": 0.04046928
+  },
+  "0xd38085bc3bf62a8c12294ad6b3cebae35cbc1940": {
+    "balance": 0.04017154
+  },
+  "0x1ae8ccd120a05080d9a01c3b4f627f865685d091": {
+    "balance": 0.01907728
+  },
+  "0xb3152182472ba2e46b11c75440a72d087f0750b6": {
+    "balance": 0.03655545
+  },
+  "0x7edbe5af30ba6ba2de9eddc72c2f585d1b0d5775": {
+    "balance": 6.0423036
+  },
+  "0x7cb62f8bed0f163e84b85ad5f924dcd82504226b": {
+    "balance": 2.17061743
+  },
+  "0x451fbbe04beb1e48969ccb04eba955bd0b640cdd": {
+    "balance": 1.00471842
+  },
+  "0xc12b9d620bfcb48be3e0ccbf0ea80c717333b46f": {
+    "balance": 4.97515461
+  },
+  "0xbc507339c805f195686a068ae45857b1ac5cfcad": {
+    "balance": 21.00669989
+  },
+  "0x166040b3db5d8c48eedc625ad2100e475b7d8ec8": {
+    "balance": 0.05043497
+  },
+  "0x18d98d452072ac2eb7b74ce3db723374360539f1": {
+    "balance": 1.39795177
+  },
+  "0x93a02871473caafcba041299f88d1be5b70d2776": {
+    "balance": 1.90197283
+  },
+  "0x01d8249d7c7a6058060bef027adda0b529035ff5": {
+    "balance": 0.03268607
+  },
+  "0x20dd9e22d22dd0a6ef74a520cb08303b5fad5de7": {
+    "balance": 9.68812489
+  },
+  "0x19b3eb3af5d93b77a5619b047de0eed7115a19e7": {
+    "balance": 36.83737622
+  },
+  "0x798576f0b501a8eb61d914249676e3878584b2ee": {
+    "balance": 32.10904946
+  },
+  "0x2dde620c0cf914b154ebb9121fd814d6b8fc97db": {
+    "balance": 0.29641153
+  },
+  "0x11ac75b61c0974f71a6e171e1e36714c4f105e35": {
+    "balance": 0.74162376
+  },
+  "0x25060fe73fc6c8073530361a945f21365bc590f0": {
+    "balance": 0.02446951
+  },
+  "0xc0c775d85d1ee90eea34ff5089f6902f44316777": {
+    "balance": 0.04034
+  },
+  "0x99b36fdbc582d113af36a21eba06bfeab7b9be12": {
+    "balance": 0.01953004
+  },
+  "0xcb4755ea7c0c05b6041c2a58f07bd922a37401fd": {
+    "balance": 0.49841139
+  },
+  "0x75482ee4e33f0351290cd958a10e042074e7a11d": {
+    "balance": 44.32044798
+  },
+  "0xe2cefefe6bf96585ee198c65d75c6f70a4d4767b": {
+    "balance": 0.01098018
+  },
+  "0x8614117946175757341b497b688c0c0662838e8e": {
+    "balance": 0.45171421
+  },
+  "0x81d2399eb4b58c7bb926b1bc6590ab436f8c1989": {
+    "balance": 0.05184713
+  },
+  "0x2aa3041fe813cfe572969216c6843c33f14f9194": {
+    "balance": 0.01674776
+  },
+  "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f": {
+    "balance": 0.10483209
+  },
+  "0x56398b89d53e8731bca8c1b06886cfb14bd6b654": {
+    "balance": 25.79696812
+  },
+  "0xbd7c6d2ede836b6b27c461799c4e9ecb8f4e8a66": {
+    "balance": 2.33928128
+  },
+  "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf": {
+    "balance": 2652.52019211
+  },
+  "0x1eff8af5d577060ba4ac8a29a13525bb0ee2a3d5": {
+    "balance": 7.82028126
+  },
+  "0x5dfae56e344b18bc7cd3b8350721ffdd12ff2b3c": {
+    "balance": 13.97509929
+  },
+  "0xd6cbac2fbd3c070a80369ac730743ee8780d2224": {
+    "balance": 10.73293035
+  },
+  "0x2ac059a27da103d7016b52283c92a3eeea978e99": {
+    "balance": 0.10613428
+  },
+  "0xe69ac6adf65c682f3809e8273b123c2d6ec7726a": {
+    "balance": 0.02068551
+  },
+  "0xd0a7a8b98957b9cd3cfb9c0425abe44551158e9e": {
+    "balance": 34.23318462
+  },
+  "0x3f87ef105ffa45f9daa141ce1dbade2c025f1eab": {
+    "balance": 0.054
+  },
+  "0x430a35baa51ddeaccf89092a5edbda47aaae78e4": {
+    "balance": 0.26699312
+  },
+  "0xc8f2e91dc9d198eded1b2778f6f2a7fd5bbeac34": {
+    "balance": 0.06240387
+  },
+  "0x02fbb64517e1c6ed69a6faa3abf37db0482f1152": {
+    "balance": 9.01433331
+  },
+  "0xbd61ef27f0793cc3a4a0afbeb00b206fc5c89c2c": {
+    "balance": 0.04221255
+  },
+  "0xa5a200ef644ea51d341547e4c40a055549d1f399": {
+    "balance": 0.02070073
+  },
+  "0x0feccb11c5b61b3922c511d0f002c0b72d770dce": {
+    "balance": 59.999
+  },
+  "0x63b3b8fa7b23d5852eb6e27c021cf3ae925d29f1": {
+    "balance": 0.025
+  },
+  "0x5420c34ee18e31d7e0cf13fcfe7cc10a7f6eee85": {
+    "balance": 0.01196633
+  },
+  "0x86cccda3799a43fbceb4cec6ad8b028f5bf8b3dd": {
+    "balance": 0.44206464
+  },
+  "0xd975b774c50aa0aeacb7b546b86218c1d7362123": {
+    "balance": 0.06472321
+  },
+  "0xa26083f4f206a5b5b285349e9a8b7a84647176f2": {
+    "balance": 4.97677287
+  },
+  "0x241e82c79452f51fbfc89fac6d912e021db1a3b7": {
+    "balance": 0.12182966
+  },
+  "0x58d9959691084288ebfa98acfecde38faf008fd6": {
+    "balance": 1.26442867
+  },
+  "0x945facb997494cc2570096c74b5f66a3507330a1": {
+    "balance": 0.0414706
+  },
+  "0x05cb3f8d65f91d3d518310abe678009a75d7e0cb": {
+    "balance": 0.04848684
+  },
+  "0x96e8caf0c26e750b0d4b79f73ca440d1ea948e7c": {
+    "balance": 0.01411967
+  },
+  "0xa789ebaf7c65bdb827d79f4459aa6fb5d0c269e5": {
+    "balance": 0.0163989
+  },
+  "0x322a1e2e18fffc8d19948581897b2c49b3455240": {
+    "balance": 0.04100222
+  },
+  "0xf93a6a5623e37371569e7e60a6e58dd84ca7ffc6": {
+    "balance": 0.024156
+  },
+  "0x90a48d5cf7343b08da12e067680b4c6dbfe551be": {
+    "balance": 0.69435427
+  },
+  "0x1353446d49eedbb94734b985c741fd0c42415fd8": {
+    "balance": 0.51641063
+  },
+  "0x5bec8f11f7987e2b0c68a4de4d5ae7ec2ff965e6": {
+    "balance": 0.03011823
+  },
+  "0x24f3b37934d1ab26b7bda7f86781c90949ae3a79": {
+    "balance": 8.27742608
+  },
+  "0xa4fc358455febe425536fd1878be67ffdbdec59a": {
+    "balance": 0.01008
+  },
+  "0x285cbedef8b3602553ab465a35516af5c962fa1e": {
+    "balance": 0.01977888
+  },
+  "0xdd2a08a1c1a28c1a571e098914ca10f2877d9c97": {
+    "balance": 4.98472111
+  },
+  "0x43de2d77bf8027e25dbd179b491e8d64f38398aa": {
+    "balance": 0.01448
+  },
+  "0xe5bd12178910c928b69cd090b18d4b981f1150dc": {
+    "balance": 0.0410916
+  },
+  "0x9149c59f087e891b659481ed665768a57247c79e": {
+    "balance": 1.78709271
+  },
+  "0x6a39909e805a3eadd2b61fff61147796ca6abb47": {
+    "balance": 0.52347933
+  },
+  "0x944cdb797afc0ed0cb45d4cacaff6acf15f0bde7": {
+    "balance": 0.01319
+  },
+  "0x02479bfc7dce53a02e26fe7baea45a0852cb0909": {
+    "balance": 0.379943
+  },
+  "0x3a52e4863c52d15b384be651939f8e33ee69716a": {
+    "balance": 0.31691781
+  },
+  "0x9db9e0e53058c89e5b94e29621a205198648425b": {
+    "balance": 29.86658755
+  },
+  "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6": {
+    "balance": 4.49105634
+  },
+  "0xdf3309771d2bf82cb2b6c56f9f5365c8bd97c4f2": {
+    "balance": 2.0907999
+  },
+  "0xf0652a820dd39ec956659e0018da022132f2f40a": {
+    "balance": 0.2672853
+  },
+  "0xe3cdb92b094a3bef3f16103b53becfb17a3558ad": {
+    "balance": 0.25858991
+  },
+  "0xccf4429db6322d5c611ee964527d42e5d685dd6a": {
+    "balance": 2434.89771928
+  },
+  "0xfb5cad398699408ce315b3e47f82b8cb427ef3db": {
+    "balance": 0.02558272
+  },
+  "0x5934807cc0654d46755ebd2848840b616256c6ef": {
+    "balance": 0.22283127
+  },
+  "0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e": {
+    "balance": 1.75077351
+  },
+  "0x84b9a17f88b00e57e774b884b1f7a0e158769851": {
+    "balance": 0.74642376
+  },
+  "0x39953e6429210c39d11688fa40219c811287caad": {
+    "balance": 0.40671601
+  },
+  "0x1914122308ccb9ff67f3b587ca59d230c6abdc25": {
+    "balance": 0.01163808
+  },
+  "0x14f768657135d3daafb45d242157055f1c9143f3": {
+    "balance": 0.14250432
+  },
+  "0xe13e9010e818d48df1a0415021d9526ef845e2cd": {
+    "balance": 0.02938562
+  },
+  "0x82934d5d45655d0c3610e99d740de8171b6f2899": {
+    "balance": 1.0
+  },
+  "0x032c3f8c62b1c928e73859ec651656f911297ba5": {
+    "balance": 0.01519316
+  },
+  "0x828ec6e678a40c251f1f37da389db0f820af6f9d": {
+    "balance": 0.02365603
+  },
+  "0x2fce9b92a64c1ddf14a1a9e5ec6d4e4c7c9f4fdd": {
+    "balance": 0.21467768
+  },
+  "0x674bdf20a0f284d710bc40872100128e2d66bd3f": {
+    "balance": 13.73513876
+  },
+  "0xf955c57f9ea9dc8781965feae0b6a2ace2bad6f3": {
+    "balance": 0.19210167
+  },
+  "0xaa90397ed818788eb584e6a13afc22c9914f19a9": {
+    "balance": 0.1035512
+  },
+  "0x567725581c7518d86c7d163dd579b2c4258337d0": {
+    "balance": 0.0128723
+  },
+  "0xdcf9ed71c5ac1b500cdf94e225898f3b65a83487": {
+    "balance": 0.10997718
+  },
+  "0x25efa336886c74ea8e282ac466bdcd0199f85bb9": {
+    "balance": 0.81368783
+  },
+  "0xa51bdedeb9510309d55fd90ac4a8994f731247b8": {
+    "balance": 0.03196
+  },
+  "0x6c323c144a8d1748c6ca517b6c386561bfd599e3": {
+    "balance": 0.0267949
+  },
+  "0x2bcd89cd77447ba46777094901ab9dfee8d91083": {
+    "balance": 0.39637378
+  },
+  "0x4f6a43ad7cba042606decaca730d4ce0a57ac62e": {
+    "balance": 2.70305281
+  },
+  "0xcaca39976f572ee8e10629cb03d90360719ba35d": {
+    "balance": 0.01376612
+  },
+  "0x212aa024e25a9c9baf5b5397b558b7ccea81740b": {
+    "balance": 0.01710775
+  },
+  "0x5b67871c3a857de81a1ca0f9f7945e5670d986dc": {
+    "balance": 2.83796139
+  },
+  "0x59f54eed3e1ea731adbfb0e417490f9b50e31b10": {
+    "balance": 0.01400473
+  },
+  "0x95fca2e84556443c1bc0c6416ee17be0e6844cd0": {
+    "balance": 1.00235757
+  },
+  "0x573c8dc186f4c44e99ef5e7cda3df4ab28187e03": {
+    "balance": 11.02178503
+  },
+  "0x5548f847fd9a1d3487d5fbb2e8d73972803c4cce": {
+    "balance": 0.36374027
+  },
+  "0x0302f55dc69f5c4327c8a6c3805c9e16fc1c3464": {
+    "balance": 0.01973901
+  },
+  "0x4a75f0ae51a5d616ada4db52be140d89302aaf78": {
+    "balance": 2.8698622
+  },
+  "0x9f8d8df26d5ab71b492ddce9799f432e36c289df": {
+    "balance": 1.20522038
+  },
+  "0x070cb1270a4b2ba53c81cef89d0fd584ed4f430b": {
+    "balance": 0.01915962
+  },
+  "0x14a09fa327d008a181ef56b067217772182f5d0d": {
+    "balance": 3.3397112
+  },
+  "0x695d84e20613f30dcd2ce5c9428c9ed37a0137d2": {
+    "balance": 2.80729063
+  },
+  "0xe5c405c5578d84c5231d3a9a29ef4374423fa0c2": {
+    "balance": 0.02370221
+  },
+  "0x6287d56e246eee33bead2d7dd3a99db693f4554c": {
+    "balance": 0.01160106
+  },
+  "0xb2a015c71c17bcac6af36645dead8c572ba08a08": {
+    "balance": 1.88154494
+  },
+  "0x397c315d64d74d82a731d656f9c4d586d200f90a": {
+    "balance": 0.1940219
+  },
+  "0x2dccdb493827e15a5dc8f8b72147e6c4a5620857": {
+    "balance": 0.26130081
+  },
+  "0xada0a1202462085999652dc5310a7a9e2bf3ed42": {
+    "balance": 0.442997
+  },
+  "0xcb0a845638ae55a29540eacac2d7b804e5c6df80": {
+    "balance": 0.15922172
+  },
+  "0xdd6242408d16a60c1cb5bf96c816daa0a8490773": {
+    "balance": 0.54597013
+  },
+  "0x8f297444777174ce4bc653b2ab3308f3c3d1a54a": {
+    "balance": 0.103388
+  },
+  "0x05eef4526b4c333bc1006986bad7e968bddfda93": {
+    "balance": 1.29079726
+  },
+  "0xc2f2aec3ec351bf4eea64eeda2699a92cec9cd93": {
+    "balance": 2.0
+  },
+  "0x840a1ae46b7364855206eb5b7286ab7e207e515b": {
+    "balance": 0.95274466
+  },
+  "0xb129374d1e6b47eccfef1464f51ae209183a4e13": {
+    "balance": 0.32673709
+  },
+  "0xe7b26ce713da2ab1ea3aea19e6f11e6ec74cd173": {
+    "balance": 0.0349563
+  },
+  "0xce4a1e86a5c47cd677338f53da22a91d85cab2c9": {
+    "balance": 1.43522605
+  },
+  "0xcbab999b25850c6530bca365e5005702cb6bf006": {
+    "balance": 0.01069974
+  },
+  "0x9891832633a83634765952b051bc7fef36714a46": {
+    "balance": 2.04346276
+  },
+  "0x9aa04795fd59a9cf6a086de9bbb62e813b307db4": {
+    "balance": 1.00000431
+  },
+  "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69": {
+    "balance": 0.35760667
+  },
+  "0x3506424f91fd33084466f402d5d97f05f8e3b4af": {
+    "balance": 0.01430853
+  },
+  "0xbc6ba7737867480580b8f7858a24f25f53bda17b": {
+    "balance": 0.02325221
+  },
+  "0x95826c65eb1f2d2f0edbb7ecb176563b61c60bbf": {
+    "balance": 0.59298665
+  },
+  "0x3a9fbeb0907f56ec11e48448c289ba53b031638d": {
+    "balance": 0.04913699
+  },
+  "0x06aab014178bc1dd3726cd12ff872d56da94e98c": {
+    "balance": 0.05
+  },
+  "0xc8d60cb1b8c3584d530bfcdda58c8686839ca408": {
+    "balance": 0.0203918
+  },
+  "0x03bf707deb2808f711bb0086fc17c5cafa6e8aaf": {
+    "balance": 0.05234538
+  },
+  "0x27be856e8b8d24220e53b933e29d46a477858ce7": {
+    "balance": 61.21173907
+  },
+  "0x234ca16fc111fbd91b5342ff079931845963fb7a": {
+    "balance": 0.24459961
+  },
+  "0x80d63b12aecf8ae5884cbf1d3536bb0c5f612cfc": {
+    "balance": 0.02052787
+  },
+  "0x53df6664b3dde086dce6315c317d1002b14b87e3": {
+    "balance": 0.01767873
+  },
+  "0x2291f52bddc937b5b840d15e551e1da8c80c2b3c": {
+    "balance": 7.44840662
+  },
+  "0x553a90f30c4b85f9a577d5349ea89ad5d724d8a3": {
+    "balance": 0.46511536
+  },
+  "0xa6156492fc79616035f644c71b01e3099819f8ec": {
+    "balance": 0.31909766
+  },
+  "0xf723f3f37f4a0639ce8daa681ab1762d2ddad485": {
+    "balance": 7.13586051
+  },
+  "0xa14ba319ab53b6f667c9e7a02a129186db26bc39": {
+    "balance": 0.12555849
+  },
+  "0xbc91df73807722f409494961bc5530f954af935a": {
+    "balance": 0.0196
+  },
+  "0xd7fa57069e4767dde13ad7970a562c43f03f8365": {
+    "balance": 2.16726013
+  },
+  "0x15819ea1edb38f30749ce899354c7f2062492502": {
+    "balance": 0.0810762
+  },
+  "0xb37d31b2a74029b5951a2778f959282e2d518595": {
+    "balance": 23.38110442
+  },
+  "0x95a802e712227dced9545a5a59324e8652faf655": {
+    "balance": 1.45767113
+  },
+  "0x250d2391dc37da3a851080e0ec2e7bd62196a32e": {
+    "balance": 0.03776106
+  },
+  "0x31117b16d3681292e4470328997a6c7b2ba39b11": {
+    "balance": 0.02
+  },
+  "0xce917e912958606ce3c112343582ee24f798fac9": {
+    "balance": 0.01728949
+  },
+  "0x75ace7a086ea0fb1a79e43cc6331ad053d8c67cb": {
+    "balance": 0.0859
+  },
+  "0xf2ef067cb8cf54afb62ee65f86870354e60c616f": {
+    "balance": 0.01041345
+  },
+  "0x54e29cc78db2f342ff3f6d368fc18e4f3630dfc9": {
+    "balance": 0.01933062
+  },
+  "0x672401ab59fc5173711d52376258c1409cd8d959": {
+    "balance": 0.01135405
+  },
+  "0xd96f48665a1410c0cd669a88898eca36b9fc2cce": {
+    "balance": 6.45179029
+  },
+  "0xc950afef4068575371e57a52a30da8f89167838f": {
+    "balance": 0.05010852
+  },
+  "0x328eb60df592761e28c797379adb2868d86759bf": {
+    "balance": 0.05000269
+  },
+  "0xcd7989894bc033581532d2cd88da5db0a4b12859": {
+    "balance": 2.28181268
+  },
+  "0x6d903f6003cca6255d85cca4d3b5e5146dc33925": {
+    "balance": 7.1223002
+  },
+  "0xa287fd349d80dfd2a8aee1c0d90f17281f24c061": {
+    "balance": 0.02209481
+  },
+  "0x58723c7afcd33a2db6ae06c37521725d65f0cc15": {
+    "balance": 0.72992027
+  },
+  "0xed8a7d67e165b6f37532cbb93b5707e4a619bd05": {
+    "balance": 0.03421258
+  },
+  "0xd9fb596c0ffe9f9ed0ad130beac7a2b8126013e1": {
+    "balance": 0.01146571
+  },
+  "0xe179d801e6882e628d6ce58b94b3c41e35c8518a": {
+    "balance": 0.35406966
+  },
+  "0x315cbc11c756d331c954dd91f895e92801b19bc9": {
+    "balance": 9.9832995
+  },
+  "0xe86204c4eddd2f70ee00ead6805f917671f56c52": {
+    "balance": 0.27697942
+  },
+  "0xfdf28bf25779ed4ca74e958d54653260af604c20": {
+    "balance": 0.40363408
+  },
+  "0xfeb4acf3df3cdea7399794d0869ef76a6efaff52": {
+    "balance": 0.55317549
+  },
+  "0x1f7683228ee9bc65335374ea5c92b81c74131404": {
+    "balance": 0.02620239
+  },
+  "0x950aff052adb56654bdeaf803e58911da76f10cd": {
+    "balance": 0.30132531
+  },
+  "0x01aa4629b756b1222cb5541da0255b4f473f3a11": {
+    "balance": 0.01
+  },
+  "0x0a62cc5ebfa79b155b4ec90e74c00e0176692772": {
+    "balance": 0.09946116
+  },
+  "0x9fc208947d92b1588f7bde245620439568a8587a": {
+    "balance": 0.10279183
+  },
+  "0xcd85541698dc95a1b0a246f8a5b21ec3c0d5605b": {
+    "balance": 0.03279215
+  },
+  "0xdc81f6c6fd9182be52d21e2a52c73efb5e63059f": {
+    "balance": 0.79392988
+  },
+  "0x3c10001f916cbc2cccc22abd6bfc7d515d2cea4d": {
+    "balance": 1.65246305
+  },
+  "0x8b1af296c4e03836acf3afc07af660e910dac1d9": {
+    "balance": 1.70656491
+  },
+  "0xbf14c3fdcbec76aa330fb456a8a4d702604e2d4e": {
+    "balance": 0.08800081
+  },
+  "0x3ad58551d87db091e6322b637ea47b4b922213b2": {
+    "balance": 0.10494722
+  },
+  "0x3980c9ed79d2c191a89e02fa3529c60ed6e9c04b": {
+    "balance": 0.56809556
+  },
+  "0x22d3d4249c7ed59d8ab23bcadf3f267059dcca6d": {
+    "balance": 0.14106816
+  },
+  "0xae99862cb922cf20f341f4292af82cf673df0db6": {
+    "balance": 0.04454293
+  },
+  "0x3fd8462e467708e5d1dd4ad6becf4058d4ccbd8d": {
+    "balance": 1.00082706
+  },
+  "0xb0105f829d50841b949c274636c2d173a78db7e0": {
+    "balance": 0.5273088
+  },
+  "0xaa8dddfe7dfa3c3269f1910d89e4413dd006d08a": {
+    "balance": 0.11079424
+  },
+  "0xade80c0dbeeca1f0c54e6ce572ce0c5ece374b2a": {
+    "balance": 0.891493
+  },
+  "0x2257aaac34bcb27900291f7b84ee2565a6cbac57": {
+    "balance": 0.36628976
+  },
+  "0x88ad09518695c6c3712ac10a214be5109a655671": {
+    "balance": 32.04610888
+  },
+  "0xc6a6f1042f391465b271d4e79712b26c6e45339e": {
+    "balance": 2.98209816
+  },
+  "0x7b930deddee8f5fd80a99f734bf9fe0d9eb215b9": {
+    "balance": 1.2
+  },
+  "0x58297a3ee9101309b3d56281b21c2f3480af7172": {
+    "balance": 0.11554531
+  },
+  "0x1d0c2555a0002a54de13749af384223691bcb4d6": {
+    "balance": 69.30536109
+  },
+  "0xd227083b6feb1a40a975d74575311fb907fb960f": {
+    "balance": 1.56248799
+  },
+  "0xa50f38e4e19a8fe65a3131de0d39e82c50be86cf": {
+    "balance": 5.53338348
+  },
+  "0xdc65b41bd77f85df33a6b4288ab04f5d450b4ec4": {
+    "balance": 0.02517
+  },
+  "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+    "balance": 0.89296538
+  },
+  "0xfc39944103bdb1d20f60dcc333143247cdf26b38": {
+    "balance": 0.02432542
+  },
+  "0x4d0b6b63674a50839e54c75a4ab3bb3c9aedc3e9": {
+    "balance": 2.08038143
+  },
+  "0xadb93a041245516a5c4538ef2bd97404cafc826c": {
+    "balance": 0.10655455
+  },
+  "0xf28bf5bcd8d245d4c3247f7e78a5c0dc64d4cf4d": {
+    "balance": 0.01743843
+  },
+  "0xc4ddc2f471a476da1b906727072669f95d37c622": {
+    "balance": 0.01866221
+  },
+  "0xa3a7b6f88361f48403514059f1f16c8e78d60eec": {
+    "balance": 8405.66479804
+  },
+  "0x40cd4fe93c0b19f783f8842429b9a5f54920b195": {
+    "balance": 0.26225431
+  },
+  "0x2f2cff66feb7320fc9adf91b7b74bfb5a80c7c35": {
+    "balance": 0.01347004
+  },
+  "0xcf2cbbf0158d3e839f688b2a6e29e3e0376e7194": {
+    "balance": 0.32172445
+  },
+  "0x0601f64b7ea089767d2fc6777a109a3372bf0742": {
+    "balance": 0.051584
+  },
+  "0xba9262578efef8b3aff7f60cd629d6cc8859c8b5": {
+    "balance": 0.02212654
+  },
+  "0x004375dff511095cc5a197a54140a24efef3a416": {
+    "balance": 0.54557194
+  },
+  "0x64aeadb9fe261e9b6ed936bf9d28454825893a15": {
+    "balance": 0.06625832
+  },
+  "0xdc1664458d2f0b6090bea60a8793a4e66c2f1c00": {
+    "balance": 7.87164843
+  },
+  "0xf3379c6cda87de7e887e81b33ab5b57aa589ef10": {
+    "balance": 0.01799284
+  },
+  "0xdaeada3d210d2f45874724beea03c7d4bbd41674": {
+    "balance": 0.78220391
+  },
+  "0xec177d69971eeeb3654a347acbfff4435ed42e41": {
+    "balance": 0.59677214
+  },
+  "0x7f3a21006ac2bcd6f695cf899abb130845d6ece7": {
+    "balance": 0.19803085
+  },
+  "0x49a0020cd959fb44d21849da7b808cd349e4325a": {
+    "balance": 0.06579566
+  },
+  "0x7951c7ef839e26f63da87a42c9a87986507f1c07": {
+    "balance": 1.92068952
+  },
+  "0xe63684bcf2987892cefb4caa79bd21b34e98a291": {
+    "balance": 0.01
+  },
+  "0xb5be7c3a00f31271a9cb7d384677524a154702f5": {
+    "balance": 0.01771081
+  },
+  "0x2dbc7dd86c6cd87b525bd54ea73ebeebbc307f68": {
+    "balance": 0.01146114
+  },
+  "0xa29f5e42760aa987214844e5db9ac4a8e16ca969": {
+    "balance": 0.02750939
+  },
+  "0x584eaaabf2e13f5542b03548021a292b8f5da423": {
+    "balance": 0.01120621
+  },
+  "0x232d338333a7a6ceca12ace17fde539a0f1700e0": {
+    "balance": 12.16085
+  },
+  "0x23a1b509397f1ae67cd584e9259c44fc285ae8a4": {
+    "balance": 0.2
+  },
+  "0x37aea4165925186b9542f17f2156340a55915a46": {
+    "balance": 0.20151328
+  },
+  "0x2916768f1fea936b6c69830b8e1e3bad5e612255": {
+    "balance": 3.1912775
+  },
+  "0x51e6775b7be2ea1d20ca02cfeeb04453366e72c8": {
+    "balance": 0.0245497
+  },
+  "0xdf140bcb286571afb923ae3fc1b81d796fe3a357": {
+    "balance": 0.01597781
+  },
+  "0xb8f69b26316818db0ea3b6d1639fedf744a2df41": {
+    "balance": 0.58518717
+  },
+  "0x9008d19f58aabd9ed0d60971565aa8510560ab41": {
+    "balance": 0.01158824
+  },
+  "0x971b4533edbfcfe34e0f6ea053d33231a814fd96": {
+    "balance": 1.01326875
+  },
+  "0x27a51803ba085e3d5708d56e094a7af8d14956a9": {
+    "balance": 0.06481
+  },
+  "0x7f62f9592b823331e012d3c5ddf2a7714cfb9de2": {
+    "balance": 851.86296723
+  },
+  "0x7566d348038d881475b5fe0638c00b391f9b33e6": {
+    "balance": 1.99412641
+  },
+  "0x829ac5f3f43c505737fe6ba9e4110d7f21283312": {
+    "balance": 0.06518015
+  },
+  "0xde485ff72973bbd9fd872c64b4b5042431025aea": {
+    "balance": 0.15209232
+  },
+  "0x04a2437c0d2d1c5ba25d68d62b32e4318f96c448": {
+    "balance": 0.0375023
+  },
+  "0x6a11f3e5a01d129e566d783a7b6e8862bfd66cca": {
+    "balance": 11.20779749
+  },
+  "0xb8c77482e45f1f44de1745f52c74426c631bdd52": {
+    "balance": 0.25446632
+  },
+  "0x473ba7bebed1ab337627c4b380f7018f032601e8": {
+    "balance": 0.01101357
+  },
+  "0x264d23675453fcbd586d78383f58ed9f21e6c734": {
+    "balance": 0.02115
+  },
+  "0xbe5d1d15617879b22c7b6a8e1e16add6d0be3c61": {
+    "balance": 0.02553701
+  },
+  "0x65a833afdc250d9d38f8cd9bc2b1e3132db13b2f": {
+    "balance": 19.48033111
+  },
+  "0x87a3ef113c210ab35afebe820ff9880bf0dd4bfc": {
+    "balance": 0.03082427
+  },
+  "0x4822d9172e5b76b9db37b75f5552f9988f98a888": {
+    "balance": 0.29980756
+  },
+  "0x6e3d44954cb5d4aaf9625e2b62a1d57a199ebb15": {
+    "balance": 0.01856144
+  },
+  "0xe615f2e4ecb9cd2689f3d08772f6adbfe9ec8ac1": {
+    "balance": 0.04634391
+  },
+  "0x4f4495243837681061c4743b74b3eedf548d56a5": {
+    "balance": 170.05944912
+  },
+  "0x2d358d2ce3a22a91eaf638bb7d60062a096a005d": {
+    "balance": 21.2448636
+  },
+  "0xb96b3d15faa72b96f645f8e11732a4cc0e2592ca": {
+    "balance": 0.2
+  },
+  "0xa23d75d3c35302777107cda99d5aa8d1fad3896d": {
+    "balance": 0.17797675
+  },
+  "0xaf2b124b597325eca509984feaf678d8f0011275": {
+    "balance": 0.01528795
+  },
+  "0xadc8d7322f2e284c1d9254170dbe311e9d3356cf": {
+    "balance": 0.10481565
+  },
+  "0xa751a143f8fe0a108800bfb915585e4255c2fe80": {
+    "balance": 0.93280528
+  },
+  "0x3dfd23a6c5e8bbcfc9581d2e864a68feb6a076d3": {
+    "balance": 2.66701275
+  },
+  "0x4dac3e07316d2a31baabb252d89663dee8f76f09": {
+    "balance": 0.04328149
+  },
+  "0xc247e8db07bf0e36e3b0ba5a25706bac74d64456": {
+    "balance": 0.01026182
+  },
+  "0x50f3752289e1456bfa505afd37b241bca23e685d": {
+    "balance": 0.13570786
+  },
+  "0x6859ea44dc8e9a42222ea1bc38ed74e8c8fe6dc7": {
+    "balance": 0.09656919
+  },
+  "0x4678f0a6958e4d2bc4f1baf7bc52e8f3564f3fe4": {
+    "balance": 0.29970925
+  },
+  "0xe6d4a4b323004d4b83257688939ad8f91161fa39": {
+    "balance": 0.05535018
+  },
+  "0x7407aef20b224a02c0f074a50b086b8de9d02509": {
+    "balance": 0.04946328
+  },
+  "0xaf91dae4bdb5f3c135da4ff5d23aaf1e137ca45e": {
+    "balance": 0.06384815
+  },
+  "0x0731ee4cf7376a1bd5a78199ac9bedc8213def24": {
+    "balance": 0.04820896
+  },
+  "0xf301d525da003e874df574bcdd309a6bf0535bb6": {
+    "balance": 0.39790287
+  },
+  "0xa476530085cf29d86960bab02b60093a0d42d6b8": {
+    "balance": 0.10477306
+  },
+  "0xd45ee2f2b70df3b7fb5e9f1053a38205cffca058": {
+    "balance": 0.02853056
+  },
+  "0x6decd32f5a2ab9b43bc6ad8923eb6d2395de145b": {
+    "balance": 139.99903911
+  },
+  "0x5dc76fd132354be5567ad617fd1fe8fb79421d82": {
+    "balance": 2.71969806
+  },
+  "0x4fc16de11deac71e8b2db539d82d93be4b486892": {
+    "balance": 1.90183663
+  },
+  "0xcba47689202d31575bfa204efe70e2c83d29da4d": {
+    "balance": 10.81222478
+  },
+  "0x231b7589426ffe1b75405526fc32ac09d44364c4": {
+    "balance": 0.09391217
+  },
+  "0xc8c1b41713761281a520b7ad81544197bc85a4ce": {
+    "balance": 0.0103558
+  },
+  "0x7ac712ec4c58ded138cc4e63e0fd59f697cc6963": {
+    "balance": 0.3836557
+  },
+  "0x1e26deb7e2b83742384f4dfbb2470947f853a2a4": {
+    "balance": 0.25152073
+  },
+  "0x23ddd3e3692d1861ed57ede224608875809e127f": {
+    "balance": 0.81722845
+  },
+  "0x3ee18b2214aff97000d974cf647e7c347e8fa585": {
+    "balance": 3599.73383857
+  },
+  "0x68c5c82210ae0932e050c1200faceabb24145e73": {
+    "balance": 0.01
+  },
+  "0xca3099dff7709da06003ecb3f0d01a095582fa9f": {
+    "balance": 1.07241631
+  },
+  "0x246bb72f98c136cc6a6a2f4972801be14aeab70c": {
+    "balance": 1.0
+  },
+  "0x6f400810b62df8e13fded51be75ff5393eaa841f": {
+    "balance": 0.02234431
+  },
+  "0x16a1bf7aa0dca07c80760a39a2ed3030fc10c3bf": {
+    "balance": 0.022
+  },
+  "0x5b81d5d13ea0d916fc62af50baa338286c4110bf": {
+    "balance": 0.0448048
+  },
+  "0xea900eb2ef3d059e8c4ba2df138053122e89c73f": {
+    "balance": 0.01017398
+  },
+  "0xdc7d39628855b6013000c9af957e6cd484beda6c": {
+    "balance": 0.22281662
+  },
+  "0x2109f78b46a789125598f5ad2b7f243751c2934d": {
+    "balance": 0.28577902
+  },
+  "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1": {
+    "balance": 856.56761114
+  },
+  "0x5cdaf83e077dbac2692b5864ca18b61d67453be8": {
+    "balance": 0.92978376
+  },
+  "0x5812fcf91adc502a765e5707ebb3f36a07f63c02": {
+    "balance": 1.09972724
+  },
+  "0x24b22b031ae1b5a6b09f9a0fd33613a40e0d70e6": {
+    "balance": 0.06965906
+  },
+  "0x16ab985c25e658e422666a311e6dce672a57a893": {
+    "balance": 0.02730575
+  },
+  "0xa5aea6ca2c82a058f4c495b5fb46be4b045cca95": {
+    "balance": 28.01596776
+  },
+  "0xf059afa5239ed6463a00fc06a447c14fe26406e1": {
+    "balance": 0.50014112
+  },
+  "0xc88f47067db2e25851317a2fdae73a22c0777c37": {
+    "balance": 0.10860233
+  },
+  "0x294de1cde8b04bf6d25f98f1d547052f8080a177": {
+    "balance": 0.01267568
+  },
+  "0x13d5387389ac1a3b72391d88b03b893a945b17cd": {
+    "balance": 0.55856036
+  },
+  "0x7c8ab7dbb65c61a1385a52959c250e63d185ac21": {
+    "balance": 0.186713
+  },
+  "0x6467e807db1e71b9ef04e0e3afb962e4b0900b2b": {
+    "balance": 0.26782359
+  },
+  "0x4d224452801aced8b2f0aebe155379bb5d594381": {
+    "balance": 0.02394209
+  },
+  "0xc2e0f31d739cb3153ba5760a203b3bd7c27f0d7a": {
+    "balance": 6.62882466
+  },
+  "0xa7b2d5c830338fe8175982cd5cc25f9edb91a5da": {
+    "balance": 0.01023302
+  },
+  "0xd4e171627383544c67ca90f5b4f77a784536b280": {
+    "balance": 0.50303014
+  },
+  "0xf92cd566ea4864356c5491c177a430c222d7e678": {
+    "balance": 2.17227939
+  },
+  "0x7835cb043e8d53a5b361d489956d6c30808349da": {
+    "balance": 0.04798395
+  },
+  "0xe15e8dd950a217ced5d9ef7185aa3fccf87ce569": {
+    "balance": 9.98334419
+  },
+  "0x2ac85b8ba1b30ab0351757cd8d7e88bd669d5a3c": {
+    "balance": 0.012
+  },
+  "0x5630d62947e68f4f9a088e7342a1c86a76d1e0f1": {
+    "balance": 2.36871046
+  },
+  "0xf5bce5077908a1b7370b9ae04adc565ebd643966": {
+    "balance": 0.52279741
+  },
+  "0xe114edbc623908aef6223c91f7a7c0a826966a51": {
+    "balance": 2.15088178
+  },
+  "0x44b77e9ce8a20160290fcbaa44196744f354c1b7": {
+    "balance": 0.01687077
+  },
+  "0x985297275e1c5404b3a557ae2bcb594a2338dd03": {
+    "balance": 0.01436034
+  },
+  "0xe82906b6b1b04f631d126c974af57a3a7b6a99d9": {
+    "balance": 1.53990651
+  },
+  "0x4da9db14c64fa8164c796694ff5c50d4a797613e": {
+    "balance": 0.3895356
+  },
+  "0x849d52316331967b6ff1198e5e32a0eb168d039d": {
+    "balance": 0.03219469
+  },
+  "0xfd4838e0bd3955ffa902cb0e6ffa93704f863232": {
+    "balance": 27.26820078
+  },
+  "0x2ec96c9af82ddd650c0776cb0da93beaa7ce2a10": {
+    "balance": 0.91355125
+  },
+  "0xcd461b73d5fc8ea1d69a600f44618bdfac98364d": {
+    "balance": 0.03519555
+  },
+  "0x89a93f94c0a3f388930c4a568430f5e8ffffd3ec": {
+    "balance": 0.4458849
+  },
+  "0x0ed8fa7fc63a8eb5487e7f87caf1ab3914ea4eca": {
+    "balance": 0.1
+  },
+  "0xd2667072a2a30e8c21fa276b474fd047ab5ff0f7": {
+    "balance": 0.0142127
+  },
+  "0x5570054ad2a4b7f274833569bee7bb77963f7cc0": {
+    "balance": 0.10493254
+  },
+  "0x0a19909c1fcb7d7d2c70b3c250b1df8372bb65b5": {
+    "balance": 0.07398118
+  },
+  "0x95fc37a27a2f68e3a647cdc081f0a89bb47c3012": {
+    "balance": 101.52384373
+  },
+  "0x7b065fcb0760df0cea8cfd144e08554f3cea73d1": {
+    "balance": 0.01690036
+  },
+  "0x8c45969ad19d297c9b85763e90d0344c6e2ac9d1": {
+    "balance": 0.23273854
+  },
+  "0x366fed46230fde6b2ba735c9f13f887f3eb38626": {
+    "balance": 0.38344128
+  },
+  "0x370c12042ed2752003fd3aba3c599574a4f37a4a": {
+    "balance": 0.02894574
+  },
+  "0xa4b86bcbb18639d8e708d6163a0c734afcdb770c": {
+    "balance": 3.04993355
+  },
+  "0x0a8e808f25c8dafa338aec17c3736f5b4505a0ed": {
+    "balance": 4.16528308
+  },
+  "0xb5852a92a3853bfde15a8b2d88e92e240f020a14": {
+    "balance": 0.36918555
+  },
+  "0x202251575e939e565619422c62d9f072e63c7e5c": {
+    "balance": 0.02816157
+  },
+  "0x330c8cb0425e9684020ca57352a97e6e4d1c0d3d": {
+    "balance": 1.38067657
+  },
+  "0xd9e551d8b300c0e7eade5c31265072520bac0295": {
+    "balance": 0.73597241
+  },
+  "0xc0b5cdeecb650cb21f53f832f1c7bb7232681bd1": {
+    "balance": 0.12726198
+  },
+  "0x8ac3b96d118288427055ae7f62e407fc7c482f57": {
+    "balance": 16.07429003
+  },
+  "0xf92ddb3dfb461c0b76d80a02260178edd277e415": {
+    "balance": 5.0
+  },
+  "0x6666428cd735569030bab41ffa986ec9ddcf2ccc": {
+    "balance": 0.3496235
+  },
+  "0xed7c6e71936af02cde1fb3d782a83772b5681a67": {
+    "balance": 0.45232547
+  },
+  "0x3cca05926af387f1ab4cd45ce8975d31f0469927": {
+    "balance": 0.26028953
+  },
+  "0x7f86bf177dd4f3494b841a37e810a34dd56c829b": {
+    "balance": 57.52207859
+  },
+  "0xd5b98b4b7d54728f69d74e4e9eec3b4a093d3d78": {
+    "balance": 0.15580147
+  },
+  "0xb2721f46d40eb85c14bf017a18d9faab4b12d930": {
+    "balance": 0.44531421
+  },
+  "0xc3d688b66703497daa19211eedff47f25384cdc3": {
+    "balance": 5514.14660688
+  },
+  "0x388f478199f45a67db6765ffcbe07f0197623678": {
+    "balance": 0.16988658
+  },
+  "0xc3a8af8c8bfc263030258afd80eb25afb6ff0820": {
+    "balance": 0.57563496
+  },
+  "0x1d778d3c6cb658c56be571425f69eff809fdc1eb": {
+    "balance": 9.90874734
+  },
+  "0xbad11967371814054d505642a733ab6a83b7c2db": {
+    "balance": 11.81415255
+  },
+  "0x2364536f4891ed560a6728f4b36871de8176ee5c": {
+    "balance": 3.14998995
+  },
+  "0xf70d2b5fa2cb5662ffdef84e5f056ad8e0f74143": {
+    "balance": 1.55256604
+  },
+  "0x23acc0a5ee43b2e6211673a7fdd6b19a2299539f": {
+    "balance": 0.92692802
+  },
+  "0x283751a21eafbfcd52297820d27c1f1963d9b5b4": {
+    "balance": 146.05131566
+  },
+  "0x4e27e41df46b2f7d9dd2c7a3afeed27e728ac2b2": {
+    "balance": 0.20569653
+  },
+  "0x9a3b055234a0372fd30f264ebdce280c7e929f5b": {
+    "balance": 1.54546381
+  },
+  "0xe6770d8bceaa703d5d15b4fad2f7f6b4d54beea4": {
+    "balance": 0.21458867
+  },
+  "0xaa58bf8343e0e84f0cb9b6ff211d60f49c16aad3": {
+    "balance": 2.01212477
+  },
+  "0x79c482d94475c3fba518905eed80f1982c6e1442": {
+    "balance": 0.99608752
+  },
+  "0xb2fa604ba6e342b2a5f5e818c81edc06d1324aa4": {
+    "balance": 0.01296431
+  },
+  "0x3557bd3d422300198719710cc3f00194e1c20a46": {
+    "balance": 1.29753175
+  },
+  "0xe7b0ce0526fbe3969035a145c9e9691d4d9d216c": {
+    "balance": 0.06349767
+  },
+  "0x02704ed8b5a8e817f354d59432e115e0d8053394": {
+    "balance": 0.01849712
+  },
+  "0xd3d0c70a341c0d060b83dfb71854555e60aae643": {
+    "balance": 0.02620374
+  },
+  "0x8bc3702c35d33e5df7cb0f06cb72a0c34ae0c56f": {
+    "balance": 0.06100594
+  },
+  "0x3182e6856c3b59c39114416075770ec9dc9ff436": {
+    "balance": 0.04558165
+  },
+  "0x9a8ba5c16fc8223df664b9a212baab8ba57b3074": {
+    "balance": 0.14
+  },
+  "0x583e29700eba92788afb4be90ebfae97559f1ac7": {
+    "balance": 0.61110499
+  },
+  "0xa4519d2d1b94205caef0847c380ed638fd659917": {
+    "balance": 0.04150294
+  },
+  "0x50002cdfe7ccb0c41f519c6eb0653158d11cd907": {
+    "balance": 15.90839609
+  },
+  "0x382b54db9c90399c5baed6ab04f3159e7b6751fa": {
+    "balance": 9.967308
+  },
+  "0x4a36e3d2606c01a92f16aece778b275fef7ae408": {
+    "balance": 0.03414495
+  },
+  "0x530ca90aaec2957c771c707171d69413d9d1e35b": {
+    "balance": 1.18665739
+  },
+  "0x02be60c4b6e4088418f8c0497d0bfa89c02a96ec": {
+    "balance": 0.27743099
+  },
+  "0x72edc9646644aca38cab3299e531517a173f0d17": {
+    "balance": 0.07296807
+  },
+  "0xf3bcedab2998933c6aad1cb31430d8bab329dd8c": {
+    "balance": 7.15578936
+  },
+  "0x3e965117a51186e41c2bb58b729a1e518a715e5f": {
+    "balance": 0.25483799
+  },
+  "0x6fd426142aff576fd48b2643786249a93c8c2d88": {
+    "balance": 2.01121425
+  },
+  "0x25ab3efd52e6470681ce037cd546dc60726948d3": {
+    "balance": 0.07424
+  },
+  "0xc4157123cb253d0fe3923fcdf1c050b5220df82e": {
+    "balance": 0.09218198
+  },
+  "0xce55798a453e47e6bab358f52e0288751c7da67c": {
+    "balance": 0.3208135
+  },
+  "0x31f3b3b86a074e2ffc4fd75d8eb9721a75ee04dc": {
+    "balance": 0.01327565
+  },
+  "0x3b95bc951ee0f553ba487327278cac44f29715e5": {
+    "balance": 12.29731241
+  },
+  "0x72f6db0f060af6c9c738755925544a97c65d56c0": {
+    "balance": 0.50000046
+  },
+  "0x5a46b42b22eb137b8382c7f4ac66f57f2099a21f": {
+    "balance": 0.02191309
+  },
+  "0xb0d8cf2436ee7a1303dcda2342611d256efa5c3a": {
+    "balance": 0.39719652
+  },
+  "0xecdd788e8e0d17114a04025edf4cbb18270ba2e9": {
+    "balance": 0.40379713
+  },
+  "0xea2c32c03575433d04898deb28db2f17d710b60a": {
+    "balance": 0.92389578
+  },
+  "0x7a27d07cfe2429a4b6104c27e73802aca1f9ea38": {
+    "balance": 3.34977518
+  },
+  "0xe89eac0ce6cdb9a0c4bc690356800b32bc3acbf3": {
+    "balance": 0.0194301
+  },
+  "0x7d1e0fa6b897dc33ff3e5c1a13759b122453f4f7": {
+    "balance": 0.05674806
+  },
+  "0x04556d845f12ff7d8ff04a37f40387dd1b454c4b": {
+    "balance": 0.23871847
+  },
+  "0x604422d7ec88c45b82b71851d073efeaa928dcef": {
+    "balance": 0.01431357
+  },
+  "0xea31ca828f53a41ba2864fa194bb8a2d3f11c0c0": {
+    "balance": 0.28067037
+  },
+  "0xd8a791fe2be73eb6e6cf1eb0cb3f36adc9b3f8f9": {
+    "balance": 16.95461318
+  },
+  "0x167ba9c25656df5100d469dfc72f0ee91eb22f7b": {
+    "balance": 24.4998082
+  },
+  "0x8735ded91c35c001f004b0b7f89a5f49b359a7a1": {
+    "balance": 1.03703163
+  },
+  "0xb74749b2213916b1da3b869e41c7c57f1db69393": {
+    "balance": 0.04103873
+  },
+  "0x4f7b489fcf1cddb66c4e1f1ea8dfa1f89922bf04": {
+    "balance": 0.05225251
+  },
+  "0x0e9064afa5071014b144bdaa0003bbb0b74975d1": {
+    "balance": 0.0148
+  },
+  "0x13134b8d770907ecb263cb88a67f9af833007afc": {
+    "balance": 36.84345022
+  },
+  "0x30d9e1a3ebe6ff89b227a9d4e2d8b86223c52639": {
+    "balance": 1.00000241
+  },
+  "0xf2005199003992b2575a861b5f219f525c72d113": {
+    "balance": 11.0011088
+  },
+  "0xee11740d863289e813d3cbe5bae6a9346a64480c": {
+    "balance": 0.44071161
+  },
+  "0x47d9d961b6d65c5e1ea0198f97620956921d2e1e": {
+    "balance": 1.405185
+  },
+  "0xc9c61194682a3a5f56bf9cd5b59ee63028ab6041": {
+    "balance": 15.40279907
+  },
+  "0x82bf455e9ebd6a541ef10b683de1edcaf05ce7a1": {
+    "balance": 0.16362231
+  },
+  "0x1096109bc1599cdbefd6be1a35969922fd56a312": {
+    "balance": 3.07958262
+  },
+  "0xed756ccb76c60b05fd9764a99643275ef13f4f9d": {
+    "balance": 0.13421631
+  },
+  "0xe49d5e65cd2da4fdd6ce235ad63696ff953dd712": {
+    "balance": 0.20054445
+  },
+  "0x313416870a4da6f12505a550b67bb73c8e21d5d3": {
+    "balance": 0.26997722
+  },
+  "0xd4c2c07a9b5790e7a9dec62e4dc046bb3ca593b1": {
+    "balance": 0.14145585
+  },
+  "0x1390f521a79babe99b69b37154d63d431da27a07": {
+    "balance": 1.29934058
+  },
+  "0xc274f1c2a8a32d58e2a400240307fbf91301c45c": {
+    "balance": 0.01332922
+  },
+  "0x60ed0567804ba72374527bdbcb744c45439bf5e0": {
+    "balance": 0.14338174
+  },
+  "0x889ff30cf8145f975272643fe6efac48889990d0": {
+    "balance": 1.9268598
+  },
+  "0x92cd4bd69e305634a72fc95992ecfa0699c784e7": {
+    "balance": 0.07263173
+  },
+  "0xa5adc5484f9997fbf7d405b9aa62a7d88883c345": {
+    "balance": 0.2419682
+  },
+  "0x58c2b66e9f17e49e6023f9d343c5085f76d307ad": {
+    "balance": 0.38618672
+  },
+  "0xf6a09e41ded67ef44b61c284b0999e523f1d407f": {
+    "balance": 0.0814592
+  },
+  "0x0de7b091a21bd439bdb2dfbb63146d9cea21ea83": {
+    "balance": 0.737543
+  },
+  "0xfe21dd0ec80e744a473770827e1ad6393a5a94f0": {
+    "balance": 0.57453669
+  },
+  "0xf31d121259f99483626a75f9e465c7629cc3e63f": {
+    "balance": 3.99999859
+  },
+  "0x34297a94a6824504547692790d729abd7b95ba1e": {
+    "balance": 0.07510002
+  },
+  "0x9ffa8e05d558bdd3cee255d654101706ebac85a2": {
+    "balance": 0.92626201
+  },
+  "0x38d3a3f8717f4db1ccb4ad7d8c755919440848a3": {
+    "balance": 0.0119649
+  },
+  "0x0f82438e71ef21e07b6a5871df2a481b2dd92a98": {
+    "balance": 0.15252433
+  },
+  "0x4ab6702b3ed3877e9b1f203f90cbef13d663b0e8": {
+    "balance": 3.64752218
+  },
+  "0x2dd99c84fdcb0846f777c4f18ca745613ab2bbd8": {
+    "balance": 17.5197339
+  },
+  "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb": {
+    "balance": 3901.01116999
+  },
+  "0xd0697f70e79476195b742d5afab14be50f98cc1e": {
+    "balance": 45.0
+  },
+  "0x26b2ec4e02ebe2f54583af25b647b1d619e67bbf": {
+    "balance": 0.29272878
+  },
+  "0x9a8fee232dcf73060af348a1b62cdb0a19852d13": {
+    "balance": 0.09835633
+  },
+  "0x4d540d0a975351dbfe82b3af77ac9e52eecb54f3": {
+    "balance": 10.68034346
+  },
+  "0xb01f8f528702d411d24c9bb8cc0e2fff779ec013": {
+    "balance": 0.02139713
+  },
+  "0xf1648c50d2863f780c57849d812b4b7686031a3d": {
+    "balance": 0.58854992
+  },
+  "0xf7a5159085722718dc1276de5979df468975ec11": {
+    "balance": 192.9773
+  },
+  "0xc1e98604046c726a5ac4605f56447e87efe9c08b": {
+    "balance": 0.03856453
+  },
+  "0xfd9b071168bc27dbe16406ec3aba050ce8eb22fa": {
+    "balance": 0.21287445
+  },
+  "0x1f2fce18798afbc4861b719d6c9a274da974586e": {
+    "balance": 0.13988286
+  },
+  "0x5c3097e7fd3b97d9fdeec6d378884c892ff0545f": {
+    "balance": 0.01013617
+  },
+  "0xf4279e93a06f9d4b5d0625b1f471aa99ef9b686b": {
+    "balance": 0.19338754
+  },
+  "0x10a4d281dca1b169d1f9bbc25b3703810f69e6a3": {
+    "balance": 0.2460954
+  },
+  "0x308b02c6a4e346f1f6fb5c7d79d0de2c4f3abb82": {
+    "balance": 0.31772583
+  },
+  "0xa294ed3233d0b45fedaaae558b00d748c668536a": {
+    "balance": 7.11373055
+  },
+  "0x9493ba8e161597ca9d30c625e85c53697a6636de": {
+    "balance": 2.79721889
+  },
+  "0xf3f82bc165a83425e81b8f2858d786e41ab21671": {
+    "balance": 0.01543884
+  },
+  "0x357a9ebb9883e27357f364366b7462082a0f4706": {
+    "balance": 2.13380308
+  },
+  "0x7fda3253c94f09fe6950710e5273165283f8b283": {
+    "balance": 3.0000011
+  },
+  "0x785615101f216cf82e66f473f2fe669ed76f2850": {
+    "balance": 1.15557502
+  },
+  "0xffaac8061dcdfc3ebe02e42399d02636e98b093e": {
+    "balance": 0.24918185
+  },
+  "0x1166914f632b4f9372272850ab6db1db06b8ddf3": {
+    "balance": 8.54505521
+  },
+  "0x04df8376e6ea24e61e62380ebfdfbce32621673e": {
+    "balance": 0.08377511
+  },
+  "0x241d7598bd1eb819c0e9ded456acb24aca623679": {
+    "balance": 12.36357675
+  },
+  "0xb738d3086ce68469adaa1704fa92412d49199ecb": {
+    "balance": 0.08381835
+  },
+  "0xebf0b4aa890098cd3e551e4a4c4f3a9bd01f3025": {
+    "balance": 18.00123668
+  },
+  "0x100ae042ef0ea159ecc3513e9a378ff21f3829ba": {
+    "balance": 20.0313734
+  },
+  "0x8fb1a35bb6fb9c47fb5065be5062cb8dc1687669": {
+    "balance": 0.34075932
+  },
+  "0x766113055468f3a070e50b341d36dadddb4ad52f": {
+    "balance": 0.50487864
+  },
+  "0xbaf2b356044e4d6b3dcc4311ff636e2f34bbbbd9": {
+    "balance": 3.39976904
+  },
+  "0x051f1d88f0af5763fb888ec4378b4d8b29ea3319": {
+    "balance": 192.88774595
+  },
+  "0x5cf89723ae734e83cca9d74416264d6a7a1bb272": {
+    "balance": 0.0118137
+  },
+  "0xfe6851ebd53aa2e9696cd7a12c71cee4a7fa8b19": {
+    "balance": 0.01013514
+  },
+  "0x4d3c9c2d3cb3feeaa0a4711b75b93c242f75c6e5": {
+    "balance": 1.08052337
+  },
+  "0xa4af17064e17e8a623734bf21c733125bd6c9f2d": {
+    "balance": 1.73097271
+  },
+  "0xd66f5ec688dad9b6781d808125967c79a9029bff": {
+    "balance": 0.37697754
+  },
+  "0xe0438eb3703bf871e31ce639bd351109c88666ea": {
+    "balance": 801.09278404
+  },
+  "0x04de8338a2fb6be06e97593bd33f9d52116b5e74": {
+    "balance": 2.40513293
+  },
+  "0x364c5d4971252b6c28bac7956810d5bf9cac6b38": {
+    "balance": 0.79936232
+  },
+  "0xbf6152607f1e08d0396b7293722d216fd9ccbbd1": {
+    "balance": 4.76238062
+  },
+  "0xc932e0199c7c230c711236021adfdfbaa866440f": {
+    "balance": 0.29377725
+  },
+  "0xf63392356a985ead50b767a3e97a253ff870e91a": {
+    "balance": 1.20546763
+  },
+  "0xd05bf362d0e74593a81565cd66cb32570a120274": {
+    "balance": 4.1296428
+  },
+  "0x5c78678cbab7c7abee256df64d8fca541f4882d8": {
+    "balance": 0.03370971
+  },
+  "0xe0f1a74b6f340d1dfefe4b0268f04b23cc665f27": {
+    "balance": 4.48396511
+  },
+  "0x9c6d5a71fdd306329287a835e9b8edb7f0f17898": {
+    "balance": 0.38468542
+  },
+  "0x9c00806b0a902ebf86fa87ae88d4733babc31078": {
+    "balance": 0.75000031
+  },
+  "0xbc2cb4bf5510a1cc06863c96196a2361c8462525": {
+    "balance": 0.02313589
+  },
+  "0xda3e3880d1e34c2c3f75dbd15e8d1a7c0876d59c": {
+    "balance": 0.79429933
+  },
+  "0x103ae778d243217fe704b42020e840c1d5ea02a3": {
+    "balance": 2.10631125
+  },
+  "0x89c53b02558e4d1c24b9bf3bed1279871187ef0b": {
+    "balance": 4.60049702
+  },
+  "0x5e8c9735a3eb81b3b6c2d40567c0eb1316025d6d": {
+    "balance": 14.22309633
+  },
+  "0xea06e1b4259730724885a39ce3ca670efb020e26": {
+    "balance": 2.45
+  },
+  "0x62b4a6ea970288f103ba81d25be4fec46b5c3f3f": {
+    "balance": 0.04174517
+  },
+  "0xf205cae3e3e24024328553c7f1abc13d1cceff42": {
+    "balance": 0.01768795
+  },
+  "0x4d96b9c7597133349d259e3493970c5fb071337a": {
+    "balance": 0.04243139
+  },
+  "0x662b5984d8bcabf36ea0ca811b7f8b6a7bb34828": {
+    "balance": 0.4
+  },
+  "0x422f8e059bf8ad276d28d458d969e2e29daaee0b": {
+    "balance": 0.01040678
+  },
+  "0xf2e186d6f3cafe17bcc89c50133cfbc2db6cf55a": {
+    "balance": 0.21423548
+  },
+  "0xaf6fa688f194283eeb45e8d35b355702ce26a87f": {
+    "balance": 0.14645521
+  },
+  "0xdc09c7a2e2eee8d90070a4048a9a11fb6b5e9334": {
+    "balance": 38.77773
+  },
+  "0x5620693b6bd27f05c4578dc296bc497184b02337": {
+    "balance": 0.05
+  },
+  "0x91dd6403f89e366385001d39fa88ad13db104213": {
+    "balance": 1.00009754
+  },
+  "0x4fb312915b779b1339388e14b6d079741ca83128": {
+    "balance": 4.0
+  },
+  "0xf5f5b97624542d72a9e06f04804bf81baa15e2b4": {
+    "balance": 82.69258605
+  },
+  "0x465667337097d0461558dd5afc774903ebb91f21": {
+    "balance": 3.0791973
+  },
+  "0x735adbbe72226bd52e818e7181953f42e3b0ff21": {
+    "balance": 3.16231111
+  },
+  "0x62aec7dcd44a58021396470a698886f392c955c8": {
+    "balance": 0.07153708
+  },
+  "0x8f81474a0167400f67e75fb9ece278059880ea89": {
+    "balance": 0.0537017
+  },
+  "0x1074a13e29bb48cccc4891df989bf9035ef5d62c": {
+    "balance": 0.1
+  },
+  "0x2527df31f576d964df9aa29e997e60d0ad16918e": {
+    "balance": 2.37899235
+  },
+  "0xa622c3bdbfbe749b1984bc127bfb500e196f594b": {
+    "balance": 2.32048199
+  },
+  "0x29065a4c1f2f20d1e263930088890d6f49fe715a": {
+    "balance": 3.0
+  },
+  "0xeacadc656c9394fb09af25aebc0897fdffe484a1": {
+    "balance": 0.69190395
+  },
+  "0x801ccfae9d2c77893b545e8d0e4637c055cd26cb": {
+    "balance": 0.04227859
+  },
+  "0x4067f10cc98ca9e723b859aeac984a5d8a9a5ece": {
+    "balance": 1.41404669
+  },
+  "0xd37bbe5744d730a1d98d8dc97c42f0ca46ad7146": {
+    "balance": 40.38585261
+  },
+  "0x83a56e36dd0ab4bd12725ba446ebadb44b100bc3": {
+    "balance": 0.93399483
+  },
+  "0xb7470fd67e997b73f55f85a6af0deb2c96194885": {
+    "balance": 0.09781738
+  },
+  "0x936c23f6a04499d3a8eddf926143316a05110185": {
+    "balance": 0.05361384
+  },
+  "0x881d40237659c251811cec9c364ef91dc08d300c": {
+    "balance": 0.11948256
+  },
+  "0xc0b2cbd7b8db0d82cfb5ed37a231b910bd072edf": {
+    "balance": 1.59030304
+  },
+  "0x0b11fd8249e3fe3f122fa2ff666dbf40ff042b7a": {
+    "balance": 0.13690251
+  },
+  "0x3c7a2dc47dfaba6732adead597057e25f8df08ba": {
+    "balance": 0.01427247
+  },
+  "0x12467a66b68791f4a7ad4e360d37d16f491ce6af": {
+    "balance": 1.73501877
+  },
+  "0xd504a3dc8991f64449460ecb664ecc28cd4e5ef8": {
+    "balance": 0.06623163
+  },
+  "0x9d26f806397d5c3d7fa5ad1819c3c7bccd7d60e0": {
+    "balance": 0.01239998
+  },
+  "0xe22b6efbb204a1e9e0a69fc19e486d8f232ca07d": {
+    "balance": 0.15507365
+  },
+  "0xb323692b6d4db96af1f52e4499a2bd0ded9af3c5": {
+    "balance": 2.84627515
+  },
+  "0xc0a61528600de831b3313496fa2280872ee2202b": {
+    "balance": 0.21008335
+  },
+  "0xf253f83aca21aabd2a20553ae0bf7f65c755a07f": {
+    "balance": 0.017295
+  },
+  "0x6ace5c946a3abd8241f31f182c479e67a4d8fc8d": {
+    "balance": 0.52277842
+  },
+  "0x0193b85c38337eb90338ed8660810ba66c548b62": {
+    "balance": 0.24450765
+  },
+  "0x186d76147a226a51a112bb1958e8b755ab9fd1af": {
+    "balance": 6.45179103
+  },
+  "0xbd3a8f1f2c74c380204bb044301d907b3f4d7c4c": {
+    "balance": 0.54761843
+  },
+  "0x95e409e87ac875d595e6de6da6eb37f1bf22f50c": {
+    "balance": 8.4664805
+  },
+  "0x585eac957d7fae14d89ecab3f2373918d2402dc1": {
+    "balance": 0.03264557
+  },
+  "0xad673e520aada71cf73cd8e257a5d50c78eb01a0": {
+    "balance": 0.22767095
+  },
+  "0x73b59d25f472c8302f74651593b209b01eaa971a": {
+    "balance": 25.51337538
+  },
+  "0x402caa1fb560b0271536c7fa01957c79d2ebdcf3": {
+    "balance": 0.01
+  },
+  "0xb07f4017f57490ef0f7456c8acebdb13508a72ff": {
+    "balance": 0.01
+  },
+  "0xff42ec1c83e0f4939c45ab4f6a027b44e5a3fc8f": {
+    "balance": 0.17150079
+  },
+  "0x87a25dfdcb7b4a60735d93c1b79c3596c7b3de6b": {
+    "balance": 0.01859236
+  },
+  "0x537a65213acdaa767c347ffd7a0e95f6a63401a4": {
+    "balance": 1.00166701
+  },
+  "0x649765821d9f64198c905ec0b2b037a4a52bc373": {
+    "balance": 29.49359566
+  },
+  "0x02ea50fd4cd859df2016c8f6638de65187b03753": {
+    "balance": 0.43498019
+  },
+  "0x7ab1daa0c03886af6f2c2b62afc434b8119843b9": {
+    "balance": 1.4925363
+  },
+  "0x0f755508c41a6ab143541784aabdbc08e9a32285": {
+    "balance": 1.0
+  },
+  "0x24d6c5afbfe04e3231115d9f496dee837d7f8233": {
+    "balance": 0.24742309
+  },
+  "0x4663df344ccc2dc54a332f5c27c008d766773856": {
+    "balance": 0.11602961
+  },
+  "0x5ee5bf7ae06d1be5997a1a72006fe6c607ec6de8": {
+    "balance": 43222.70844653
+  },
+  "0x249c85ece2dcf985ced87f4593c7398eb9881269": {
+    "balance": 2.02800508
+  },
+  "0x3a496a6c45dccd44f474e45fa208323dbc47f868": {
+    "balance": 0.32679352
+  },
+  "0xa824035f118a136215a5f45b54c2a45b118f9f94": {
+    "balance": 4.49995777
+  },
+  "0x8a90dce388758a55c5757fac2d9e0b5d15e51564": {
+    "balance": 0.08
+  },
+  "0xafb979d9afad1ad27c5eff4e27226e3ab9e5dcc9": {
+    "balance": 0.53
+  },
+  "0x260915385d24468036789843121e7c8b8c5ab8e9": {
+    "balance": 0.38948834
+  },
+  "0xe84b217ba16dc2ea132911e468cbd24ece7fd871": {
+    "balance": 15.25096251
+  },
+  "0xa00bd12055b261a920da2d50be7c6a805dbfcee1": {
+    "balance": 0.83251898
+  },
+  "0x3c2304b1d15f0e6e135d9d8bba2ed9bfaeb8ec2b": {
+    "balance": 0.22647719
+  },
+  "0xbd5fbf3b3a09170d56f3400b90f432c61feedfa9": {
+    "balance": 0.39766464
+  },
+  "0xd25ee8509302bd23dc11d1ab867fe995cdd7b531": {
+    "balance": 5.19065508
+  },
+  "0x21a56e63094df3c179ac3753ba6f13d4cdc51832": {
+    "balance": 0.01870229
+  },
+  "0x9e6e443d582585f55f6fca49edc5a6a94f47e8e8": {
+    "balance": 0.047
+  },
+  "0xadffdccdabe97c66b49f02333c7223c369d5968d": {
+    "balance": 1.50765344
+  },
+  "0xebbd96aab0e0dc31e27cb3ec41ea10bba693cf97": {
+    "balance": 1.01542957
+  },
+  "0x6690384822aff0b65fe0c21a809f187f5c3fcdd8": {
+    "balance": 0.05799419
+  },
+  "0xb4b5d7ae1a5b51ab4018f892bbb335fc88858cee": {
+    "balance": 0.132
+  },
+  "0x166b7874154baa0072212ab0a53751569d323a1b": {
+    "balance": 0.03183816
+  },
+  "0xedb9ba4930a9889ce91bef33fd6e79f0c64b0a86": {
+    "balance": 0.07052336
+  },
+  "0x775b3427dba8bd5c2c597c06995df61f59728e6c": {
+    "balance": 0.3
+  },
+  "0xfa7093cdd9ee6932b4eb2c9e1cde7ce00b1fa4b9": {
+    "balance": 9.80732484
+  },
+  "0xa3399224ed34d101eaddfc2249de873262ad58bb": {
+    "balance": 0.72435575
+  },
+  "0x961d680c4eb45a6aa3f043e865b79cbe5bdc3e6f": {
+    "balance": 0.05201443
+  },
+  "0xe7a5548ba877ebcf263bdc12fad47080d7cbf3e4": {
+    "balance": 0.17985852
+  },
+  "0xd5d0d11300536be043359a4a8264f8089998076a": {
+    "balance": 1.01959103
+  },
+  "0xf4418d9fe76a788f2868a558dd216549ad2d869b": {
+    "balance": 0.09611354
+  },
+  "0x4b41cc5a22e0e2568b1e80756e5784a5b1208050": {
+    "balance": 9.92495019
+  },
+  "0x5aed8a3a1157bf81343f9d310bb9b63060f6b3cf": {
+    "balance": 0.06290972
+  },
+  "0xe78ccc4d84e9068e3928c3e40e78c8d7c592baf0": {
+    "balance": 0.60680209
+  },
+  "0xc1f785b74a01dd9fac0de6070bc583fe9eac7ab5": {
+    "balance": 0.12573616
+  },
+  "0x2a3dd3eb832af982ec71669e178424b10dca2ede": {
+    "balance": 55.42973804
+  },
+  "0xd4c5c12928b913e6a1c259590b74ecca57fd27a5": {
+    "balance": 0.21947263
+  },
+  "0xa17581a9e3356d9a858b789d68b4d866e593ae94": {
+    "balance": 89.69357935
+  },
+  "0x52e75d318cfb31f9a2edfa2dfee26b161255b233": {
+    "balance": 0.04505749
+  },
+  "0x414cbb5c7cf637b7030965b5ee84504c64c10c29": {
+    "balance": 3.14773627
+  },
+  "0x9cf20b97a74fc99cbc8c84769f5ca4e974bf039a": {
+    "balance": 0.65175087
+  },
+  "0x32467a5fc2d72d21e8dce990906547a2b012f382": {
+    "balance": 16.82468267
+  },
+  "0xb8e6d31e7b212b2b7250ee9c26c56cebbfbe6b23": {
+    "balance": 1.09
+  },
+  "0xaa11d38a6888aacfbba77b7c226a95ed7afaa082": {
+    "balance": 2.06999788
+  },
+  "0x367c42a6f261ec54ffbecf5f41c226be12a3dca0": {
+    "balance": 86.8103
+  },
+  "0xa76595083f0436912a50418901aca7ed044bb14f": {
+    "balance": 1.73059266
+  },
+  "0xe0183f9e750ed98d4766d8e9de451ecbaf99fd25": {
+    "balance": 0.014
+  },
+  "0xdf20dd5e5839750459cb95d9fc050e8c2c4344d1": {
+    "balance": 1.11849963
+  },
+  "0x0a6a7fecce6d5b2d1b302ca419255f79bb2fa0c1": {
+    "balance": 0.1
+  },
+  "0xb8981d01a9106585f540016e2059ee5873518ceb": {
+    "balance": 44.04315848
+  },
+  "0x446b86a33e2a438f569b15855189e3da28d027ba": {
+    "balance": 1.68810474
+  },
+  "0xbd2bb905e368e4731769c341193c79f39b35efbe": {
+    "balance": 0.06933742
+  },
+  "0x0f708c43c7948126ef7a87d2ae1996cdc3ae863f": {
+    "balance": 0.0103334
+  },
+  "0x3c212a044760de5a529b3ba59363ddeccc2210be": {
+    "balance": 1.86462542
+  },
+  "0xbbbd1bbb4f9b936c3604906d7592a644071de884": {
+    "balance": 0.01577502
+  },
+  "0xe57538e4075446e42907ea48abfa83b864f518e4": {
+    "balance": 1.57241407
+  },
+  "0xb4de3f8ab9928ac3c18b4daa75194aa6383dcf1e": {
+    "balance": 0.01650842
+  },
+  "0x8e8212386d580d8dd731a2b1a36a43935250304e": {
+    "balance": 0.03605133
+  },
+  "0x9b39f671bad9208534ac93e73645f98d2dd2f57f": {
+    "balance": 7.20961477
+  },
+  "0x7e5637ddd891922148db242242c84eb5dd10993e": {
+    "balance": 2.81715549
+  },
+  "0xa6e265667e1e18c28f2b5dc529f775c5f0d56d4a": {
+    "balance": 1.7516021
+  },
+  "0xcc83a84db062c48f755b7048e1127674240ef68a": {
+    "balance": 52.80000001
+  },
+  "0x1715a3e4a142d8b698131108995174f37aeba10d": {
+    "balance": 25.1705887
+  },
+  "0xaaaaaaaaa24eeeb8d57d431224f73832bc34f688": {
+    "balance": 0.02928607
+  },
+  "0x0d0b7c5637fa5ba5d9c7ec47b3fb576f0fed1824": {
+    "balance": 1.93000336
+  },
+  "0x6a32a6c05501f07e15f92d50454b155d9559621c": {
+    "balance": 0.74519446
+  },
+  "0x2522faf153f26d78d145463e6ebf0e46d37d3940": {
+    "balance": 0.14900612
+  },
+  "0x51cb9fd942842c17284000a977500156f522203e": {
+    "balance": 0.99770851
+  },
+  "0xdc838074d95c89a5c2cbf26984fedc9160b61620": {
+    "balance": 0.31058644
+  },
+  "0xa81f5546378ef280966f4436e6030042281dad47": {
+    "balance": 0.08393683
+  }
+}
